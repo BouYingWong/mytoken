@@ -35,7 +35,7 @@
         <tk.mybatis.version>2.0.2</tk.mybatis.version>
         <pagehelper.version>1.2.5</pagehelper.version>
         <lombok.version>1.16.18</lombok.version>
-        <guava.version>25.1-jre</guava.version>
+        <guava.version>29.0-jre</guava.version>
         <neko.version>1.9.22</neko.version>
         <jsckson.version>2.9.6</jsckson.version>
         <validator.version>5.3.4.Final</validator.version>
